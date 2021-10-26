@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sh1rkh4n
-- 👀 I’m interested in learning to develop Web-based Applciations through Angular/C#, an Web-APIs like EntityFramework etc.
+- 👀 I’m interested in learning to develop Web-based Applications through Angular/C#, an Web-APIs like EntityFramework etc.
 - 🌱 I’m currently learning everything I can.
-- 💞️ I’m looking to collaborate on similar people, who did start from the very begining like me.
+- 💞️ I’m looking to collaborate with similar people, who did start from the very begining like me.
 - 📫 How to reach me: Let me know if you'd like to do so.
 
 <!---
